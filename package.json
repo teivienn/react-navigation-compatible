@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-compatible",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compatible layer for react-navigation v6 with v4",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
